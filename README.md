@@ -1,1 +1,1 @@
-![netflix cicd drawio](https://github.com/user-attachments/assets/05ebd33d-b628-42df-80a7-0e0a56154da3)
+![updated netflix drawio](https://github.com/user-attachments/assets/1cfa0f2a-2db8-47e7-b209-922e1cc9c459)
